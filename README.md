@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolem
 - 👀 I’m interested in learning how to learn
-- 🌱 I’m currently learning anime.js
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on Link OPen Data
 - 📫 How to reach me here
 
