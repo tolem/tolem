@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tolem
+- 👋 Hi, I’m Lami
 - 👀 I’m interested in learning how to learn
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on Link OPen Data
+- 💞️ I like to collab
 - 📫 How to reach me here
 
 <!---
