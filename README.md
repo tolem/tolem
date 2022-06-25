@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lami
-- 👀 I’m interested in learning how to learn
+- 👀 I’m interested in learning Web development
 - 🌱 I’m currently learning React 
 - 💞️ I like to collab
-- 📫 How to reach me here
+- 📫 Reach me here
 
 <!---
 tolem/tolem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
