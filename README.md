@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lami
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently playing with React 
 - 📫 Reach me here
 
 <!---
