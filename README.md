@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lami
-- 🌱 I’m currently playing with React 
-- 📫 Reach me here
+- 🌱 I’m currently on a voyage to Alpha Centauri system (Just kidding 😛. Maybe oneday🚀.) 
+- 📫 So reach me here
 
 <!---
 tolem/tolem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
