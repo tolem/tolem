@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lami
 - 🌱 I’m currently on a voyage to Alpha Centauri system (Just kidding.) Maybe oneday🚀 
-- 📫 Ping me here
+- 📫 Since you are here, lets be Friends, ping me.
 
 <!---
 tolem/tolem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
