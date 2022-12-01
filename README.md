@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lami
-- 🌱 I’m currently on a voyage to Alpha Centauri system (Just kidding.) Maybe oneday🚀 
+- 🌱 I’m currently on a voyage🚀 
 - 📫 Ping me here!
 
 <!---
