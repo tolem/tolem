@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lami
-- 🌱 I’m currently on a voyage🚀 
+- 🌱 I’m currently on a voyage of exploration and learning🚀 
 - 📫 Ping me here!
 
 <!---
