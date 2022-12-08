@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lami
-- 🌱 I’m  on a voyage of exploration and learning🚀 
-- 📫 Ping me here!
+- 🌱 🚀 
+- 📫 Ping here!
 
 <!---
 tolem/tolem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
