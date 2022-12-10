@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lami
-- 🌱 🚀 
+- 🌱 exploring 🚀 
 - 📫 Ping here!
 
 <!---
