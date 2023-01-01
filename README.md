@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lami
+- 👋 Hey 
 - 🌱 exploring 🚀 
 - 📫 Ping here!
 
