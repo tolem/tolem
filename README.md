@@ -1,4 +1,4 @@
 # Hellooo 🦹 :wave: 👾 🔄
-I'm from :nigeria: and I like learning.
+I am a  open source enthusiasts; if you have any interesting project; send me dm. 
 
 [![Tolem's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tolem)](https://github.com/tolem)
